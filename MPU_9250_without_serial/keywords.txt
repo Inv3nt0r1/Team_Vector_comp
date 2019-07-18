@@ -1,0 +1,9 @@
+# Syntax Colouring Map Loco
+
+
+# Datatypes	(KEYWORD1)
+
+MPU_9250	KEYWORD1
+# Methods and Functions	(KEYWORD2)
+Start_gyro	KEYWORD2
+compute	KEYWORD2
